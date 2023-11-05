@@ -1,6 +1,6 @@
-# SOP
-QA Testing
- If you were to create Excel or Google Sheets to support each of the key areas for streamlining, you might set up your workbook with the following tabs, each representing a different focus area:
+# SOP ![Imgur](https://i.imgur.com/SdKPScR.png)
+QA Audit
+> Generating data from Microsoft forms or Google forms will create Excel or Google Sheets to support each of the key areas for streamlining. Setup the workbook (QA Audit) with the following tabs, each representing a different focus area:
 
 1. **Inspection Patterns Analysis**
    - Sheet Title: `Inspection Frequency Analysis`
