@@ -38,7 +38,7 @@ QA Testing
    - Sheet Title: `Continuous Improvement Log`
    - Columns: Improvement ID, Description, Implementation Date, Impact Assessment, Follow-up Actions.
 
-     | Improvement ID   | Description           | Implementation Date   | Impact Assessment   | Follow-up Actions   |
+| Improvement ID   | Description           | Implementation Date   | Impact Assessment   | Follow-up Actions   |
 |:-----------------|:----------------------|:----------------------|:--------------------|:--------------------|
 | CI-001           | Process improvement 1 | 2023-11-01            | Low                 | Action required 1   |
 | CI-002           | Process improvement 2 | 2023-11-02            | High                | Action required 2   |
@@ -63,7 +63,7 @@ QA Testing
    - Sheet Title: `Quality Metrics Raw Data`
    - Columns: Date, Metric ID, Description, Value, Target, Variance.
   
-    | Date       | Metric ID   | Description      |   Value |   Target |   Variance |
+| Date       | Metric ID   | Description      |   Value |   Target |   Variance |
 |:-----------|:------------|:-----------------|--------:|---------:|-----------:|
 | 2023-11-01 | METRIC-001  | Quality metric 1 |   83.34 |       90 |      -6.66 |
 | 2023-11-02 | METRIC-002  | Quality metric 2 |   83.53 |       90 |      -6.47 |
@@ -75,7 +75,8 @@ QA Testing
 6. **Training Needs & Outcomes**
    - Sheet Title: `Training Analysis Report`
    - Columns: Training Session ID, Date, Attendees, Post-Training Assessment, Improvement Noted, Further Training Required.
-     | Training Session ID   | Date       |   Attendees | Post-Training Assessment   | Improvement Noted   | Further Training Required   |
+     
+| Training Session ID   | Date       |   Attendees | Post-Training Assessment   | Improvement Noted   | Further Training Required   |
 |:----------------------|:-----------|------------:|:---------------------------|:--------------------|:----------------------------|
 | TRAIN-001             | 2023-11-01 |          10 | Satisfactory               | Yes                 | No                          |
 | TRAIN-002             | 2023-11-02 |          17 | Excellent                  | Yes                 | Yes                         |
@@ -86,13 +87,22 @@ QA Testing
 
 7. **Quality Cost Reporting**
    - Sheet Title: `Cost of Quality Report`
-   - Columns: Date, Error Type, Quantity, Estimated Cost, Preventive Measures, Savings Post-Improvement.
+   - Columns: Date, Error Type, Quantity, Estimated Cost, Preventive Measures, Savings Post-Improvement
+
+| Date       | Error Type   |   Quantity |   Estimated Cost | Preventive Measures   |   Savings Post-Improvement |
+|:-----------|:-------------|-----------:|-----------------:|:----------------------|---------------------------:|
+| 2023-11-01 | Rework       |         42 |           112.21 | Measure 1             |                    2793.31 |
+| 2023-11-02 | Rework       |         36 |           660.56 | Measure 2             |                     750.72 |
+| 2023-11-03 | Defect       |          1 |           706.29 | Measure 3             |                    2530.22 |
+| 2023-11-04 | Rework       |         32 |           974.75 | Measure 4             |                     589.94 |
+| 2023-11-05 | Rework       |          6 |           890.37 | Measure 5             |                    2487.70 |
+
 
 8. **Risk Analysis & Mitigation**
    - Sheet Title: `Risk Management Log`
    - Columns: Risk ID, Description, Probability, Impact, Mitigation Strategy, Status.
   
-    | Date       | Error Type   |   Quantity |   Estimated Cost | Preventive Measures   |   Savings Post-Improvement |
+| Date       | Error Type   |   Quantity |   Estimated Cost | Preventive Measures   |   Savings Post-Improvement |
 |:-----------|:-------------|-----------:|-----------------:|:----------------------|---------------------------:|
 | 2023-11-01 | Rework       |         42 |           112.21 | Measure 1             |                    2793.31 |
 | 2023-11-02 | Rework       |         36 |           660.56 | Measure 2             |                     750.72 |
@@ -104,6 +114,7 @@ QA Testing
 9. **Audit Schedule & Results**
    - Sheet Title: `Audit Schedule and Findings`
    - Columns: Date Scheduled, Department, Auditor, Findings, Corrective Actions Required, Follow-up Date.
+     
 | Date Scheduled | Department | Auditor   | Findings     | Corrective Actions Required | Follow-up Date |
 |:---------------|:-----------|:----------|:-------------|:----------------------------|:---------------|
 | 2023-11-01     | Plant 3    | Auditor 1 | Major Issues | Action 1                    | 2023-11-05     |
@@ -116,6 +127,7 @@ QA Testing
 10. **Non-Conformance Tracking**
     - Sheet Title: `Non-Conformance Tracker`
     - Columns: Date Identified, Product/Process, Description of Non-Conformance, Impact Assessment, Resolution Status, Resolution Date.
+
 | Date Identified   | Product/Process   | Description of Non-Conformance   | Impact Assessment   | Resolution Status   | Resolution Date   |
 |:------------------|:------------------|:---------------------------------|:--------------------|:--------------------|:------------------|
 | 2023-11-01        | Process X         | Issue with 1                     | Medium              | In Progress         | 2023-11-15        |
@@ -128,8 +140,8 @@ QA Testing
 11. **Vendor Quality Management**
     - Sheet Title: `Vendor Quality Scores`
     - Columns: Vendor ID, Date, Quality Score, Non-Conformance Issues, Corrective Actions, Follow-up Required.
-   
-    | Vendor ID   | Date       |   Quality Score |   Non-Conformance Issues | Corrective Actions   | Follow-up Required   |
+
+| Vendor ID   | Date       |   Quality Score |   Non-Conformance Issues | Corrective Actions   | Follow-up Required   |
 |:------------|:-----------|----------------:|-------------------------:|:---------------------|:---------------------|
 | VEND-001    | 2023-11-01 |            70.6 |                        8 | Action 1             | Yes                  |
 | VEND-002    | 2023-11-02 |            75.9 |                        2 | Action 2             | Yes                  |
@@ -141,6 +153,7 @@ QA Testing
 12. **Product Release Checklist**
     - Sheet Title: `Product Release Checklist`
     - Columns: Product ID, Checklist Item, Status, Comments, Release Approval, Release Date.
+    - 
 | Product ID   | Checklist Item   | Status         | Comments   | Release Approval   | Release Date   |
 |:-------------|:-----------------|:---------------|:-----------|:-------------------|:---------------|
 | PROD-001     | Item 1           | Pending Review | Comment 1  | Not Approved       | 2023-11-20     |
@@ -154,7 +167,7 @@ QA Testing
     - Sheet Title: `Incoming Material Inspection Log`
     - Columns: Material ID, Date Received, Inspection Results, Accepted/Rejected, Actions Required.
 
-  | Material ID   | Date Received   | Inspection Results   | Accepted/Rejected   | Actions Required   |
+| Material ID   | Date Received   | Inspection Results   | Accepted/Rejected   | Actions Required   |
 |:--------------|:----------------|:---------------------|:--------------------|:-------------------|
 | MAT-0001      | 2023-11-01      | Fail                 | Rejected            | Review Quality     |
 | MAT-0002      | 2023-11-02      | Pass                 | Rejected            | None               |
@@ -167,7 +180,7 @@ QA Testing
     - Sheet Title: `Quality Trends Analysis`
     - Columns: Date, Metric, Current Value, Historical Average, Trend, Potential Actions.
 
-      | Date       | Metric   |   Current Value |   Historical Average | Trend     | Potential Actions   |
+| Date       | Metric   |   Current Value |   Historical Average | Trend     | Potential Actions   |
 |:-----------|:---------|----------------:|---------------------:|:----------|:--------------------|
 | 2023-11-01 | Metric 1 |           61.53 |                85.8  | Stable    | Action 1            |
 | 2023-11-02 | Metric 2 |           69.74 |                64.4  | Declining | Action 2            |
@@ -217,7 +230,7 @@ QA Testing
     - Sheet Title: `Quality Circle Initiatives`
     - Columns: Initiative ID, Description, Start Date, Participants, Status Update, Results.
 
-      | Initiative ID   | Description   | Start Date   | Participants   | Status Update   | Results                     |
+| Initiative ID   | Description   | Start Date   | Participants   | Status Update   | Results                     |
 |:----------------|:--------------|:-------------|:---------------|:----------------|:----------------------------|
 | QCI-001         | Initiative 1  | 2023-11-05   | 2 members      | On Hold         | Positive impact on KPIs     |
 | QCI-002         | Initiative 2  | 2023-11-06   | 4 members      | Completed       | No significant change       |
@@ -230,7 +243,7 @@ QA Testing
     - Sheet Title: `Equipment Calibration Log`
     - Columns: Equipment ID, Calibration Date, Results, Next Calibration Due, Maintenance Issues, Resolved Date.
 
-      | Equipment ID | Calibration Date | Results | Next Calibration Due | Maintenance Issues | Resolved Date |
+| Equipment ID | Calibration Date | Results | Next Calibration Due | Maintenance Issues | Resolved Date |
 |:-------------|:-----------------|:--------|:---------------------|:-------------------|:--------------|
 | EQ-0001      | 2023-11-01       | Fail    | 2024-04-29           | None               | 2023-11-16    |
 | EQ-0002      | 2023-11-02       | Fail    | 2024-04-30           | Issue 2            | Pending       |
