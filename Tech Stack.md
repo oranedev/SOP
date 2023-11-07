@@ -1,0 +1,43 @@
+![Day in The Life of an Auditor](https://i.imgur.com/DOConbx.png)
+# Quality Assurance Technology Stack Overview
+
+ Microsoft technology stack that supports Quality Assurance (QA) audit goals and tracking.
+
+## Microsoft Excel
+- **Audit Compliance**: Create checklists and templates for standardizing audits.
+- **Record Keeping**: Utilize spreadsheets for detailed records of QA activities.
+
+## Microsoft SharePoint
+- **Document Management**: Centralize all QA documentation for easy access and version control.
+- **Collaboration**: Seamlessly integrate with Microsoft Teams for document sharing.
+
+## Microsoft Power BI
+- **Data Analysis**: Leverage to visualize and interpret QA data.
+- **Reporting**: Generate insightful reports for quality improvement.
+
+## Microsoft PowerApps
+- **Custom Apps**: Develop tailored QA applications for measurement verification.
+
+## Microsoft Power Automate (Flow)
+- **Automation**: Streamline workflows for documentation and follow-up actions.
+
+## Microsoft Teams
+- **Communication**: Facilitate real-time discussions and meetings.
+- **Integration**: Connect with SharePoint, Power BI, and other apps for a unified workspace.
+
+## Microsoft Lists
+- **Tracking**: Organize tasks and issues related to QA activities.
+
+## Microsoft Forms
+- **Feedback Collection**: Gather insights from departments to enhance quality.
+
+## OneNote
+- **Note-Taking**: Compile notes and information from various QA processes.
+
+## Microsoft Outlook
+- **Email and Scheduling**: Coordinate QA projects and communication efforts.
+
+## Dynamics 365
+- **CRM and ERP**: Manage customer relationships and resources related to QA.
+
+This stack enables QA Auditors to efficiently conduct their responsibilities and effectively communicate their findings to the Quality Assurance Specialist
