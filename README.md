@@ -117,11 +117,11 @@ QA Audit
      
 | Date Scheduled | Department | Auditor   | Findings     | Corrective Actions Required | Follow-up Date |
 |:---------------|:-----------|:----------|:-------------|:----------------------------|:---------------|
-| 2023-11-01     | Plant 3    | Auditor 1 | Major Issues | Action 1                    | 2023-11-05     |
-| 2023-11-02     | Plant 3    | Auditor 2 | Major Issues | Action 2                    | 2023-11-06     |
-| 2023-11-03     | Plant 2    | Auditor 3 | Major Issues | Action 3                    | 2023-11-07     |
-| 2023-11-04     | Plant 3    | Auditor 4 | No Issues    | Action 4                    | 2023-11-08     |
-| 2023-11-05     | Plant 3    | Auditor 5 | Minor Issues | Action 5                    | 2023-11-09     |
+| 2023-11-01     | V4T    | Auditor 1 | Major Issues | Update of SOP                   | 2023-11-05     |
+| 2023-11-02     | V4T    | Auditor 2 | Major Issues | Communicating Changes                    | 2023-11-06     |
+| 2023-11-03     | Doors    | Auditor 3 | Major Issues | Monitoring Effectiveness                   | 2023-11-07     |
+| 2023-11-04     | Roofing    | Auditor 4 | No Issues    | Process  Re-engineering                  | 2023-11-08     |
+| 2023-11-05     | Modular Rooms    | Auditor 5 | Minor Issues | Rework                    | 2023-11-09     |
 
 
 10. **Non-Conformance Tracking**
