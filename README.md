@@ -56,7 +56,7 @@ QA Audit
 | 2023-11-01 | EMP-0001    | Management        | Implement Warsaw pact | No                | Pending         |
 | 2023-11-02 | EMP-0002    | Policy            | non-compliant | Yes               | Addressed       |
 | 2023-11-03 | EMP-0003    | Work Environment  | Poor air quality index | No                | Addressed       |
-| 2023-11-04 | EMP-0004    | Work Environment  | High noise poluuyion| Yes               | Addressed       |
+| 2023-11-04 | EMP-0004    | Work Environment  | High noise pollution| Yes               | Addressed       |
 | 2023-11-05 | EMP-0005    | Management        | Implement risk assessment | Yes               | Addressed       |
 
 5. **Quality Dashboards Data Source**
@@ -65,11 +65,11 @@ QA Audit
   
 | Date       | Metric ID   | Description      |   Value |   Target |   Variance |
 |:-----------|:------------|:-----------------|--------:|---------:|-----------:|
-| 2023-11-01 | METRIC-001  | Quality metric 1 |   83.34 |       90 |      -6.66 |
-| 2023-11-02 | METRIC-002  | Quality metric 2 |   83.53 |       90 |      -6.47 |
-| 2023-11-03 | METRIC-003  | Quality metric 3 |   60.52 |       90 |     -29.48 |
-| 2023-11-04 | METRIC-004  | Quality metric 4 |   56.45 |       90 |     -33.55 |
-| 2023-11-05 | METRIC-005  | Quality metric 5 |   65.77 |       90 |     -24.23 |
+| 2023-11-01 | DD  | Defect Density |   83.34 |       90 |      -6.66 |
+| 2023-11-02 | FPY  | First Pass Yield |   83.53 |       90 |      -6.47 |
+| 2023-11-03 | NCR  | Non-conformance rate |   60.52 |       90 |     -29.48 |
+| 2023-11-04 | CoQ  | Cost of Quality |   56.45 |       90 |     -33.55 |
+| 2023-11-05 | AFCR  | Audit Fidings Closure Rate |   65.77 |       90 |     -24.23 |
                            
 
 6. **Training Needs & Outcomes**
@@ -91,11 +91,11 @@ QA Audit
 
 | Date       | Error Type   |   Quantity |   Estimated Cost | Preventive Measures   |   Savings Post-Improvement |
 |:-----------|:-------------|-----------:|-----------------:|:----------------------|---------------------------:|
-| 2023-11-01 | Rework       |         42 |           112.21 | Measure 1             |                    2793.31 |
-| 2023-11-02 | Rework       |         36 |           660.56 | Measure 2             |                     750.72 |
-| 2023-11-03 | Defect       |          1 |           706.29 | Measure 3             |                    2530.22 |
-| 2023-11-04 | Rework       |         32 |           974.75 | Measure 4             |                     589.94 |
-| 2023-11-05 | Rework       |          6 |           890.37 | Measure 5             |                    2487.70 |
+| 2023-11-01 | Rework       |         42 |           112.21 | Quality Training Programs              |                    2793.31 |
+| 2023-11-02 | Rework       |         36 |           660.56 | Risk Assessment             |                     750.72 |
+| 2023-11-03 | Defect       |          1 |           706.29 | Preventative Maintenance             |                    2530.22 |
+| 2023-11-04 | Rework       |         32 |           974.75 | Standard Operating Procedures             |                     589.94 |
+| 2023-11-05 | Rework       |          6 |           890.37 | Change Control             |                    2487.70 |
 
 
 8. **Risk Analysis & Mitigation**
@@ -104,11 +104,11 @@ QA Audit
   
 | Date       | Error Type   |   Quantity |   Estimated Cost | Preventive Measures   |   Savings Post-Improvement |
 |:-----------|:-------------|-----------:|-----------------:|:----------------------|---------------------------:|
-| 2023-11-01 | Rework       |         42 |           112.21 | Measure 1             |                    2793.31 |
-| 2023-11-02 | Rework       |         36 |           660.56 | Measure 2             |                     750.72 |
-| 2023-11-03 | Defect       |          1 |           706.29 | Measure 3             |                    2530.22 |
-| 2023-11-04 | Rework       |         32 |           974.75 | Measure 4             |                     589.94 |
-| 2023-11-05 | Rework       |          6 |           890.37 | Measure 5             |                    2487.70 |
+| 2023-11-01 | Rework       |         42 |           112.21 | Root Cause Analysis            |                    2793.31 |
+| 2023-11-02 | Rework       |         36 |           660.56 | Process Capability Study             |                     750.72 |
+| 2023-11-03 | Defect       |          1 |           706.29 | Quality Design Review             |                    2530.22 |
+| 2023-11-04 | Rework       |         32 |           974.75 | Early Warning Indicators             |                     589.94 |
+| 2023-11-05 | Rework       |          6 |           890.37 | Statistical Process Control             |                    2487.70 |
 
 
 9. **Audit Schedule & Results**
