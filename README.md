@@ -1,5 +1,5 @@
 
-QA Audit
+QA
 > Generating data from Microsoft forms or Google forms will create Excel or Google Sheets to support each of the key areas for streamlining. These forms can be integrated into Microsoft Teams and behave like an application for inputting data. These workbooks represent a different focus area and can be structured to build a QA workbook. By utilizing this structured approach, the QA Audit workbook becomes a living document that not only records audit findings but also actively manages the resolution process and contributes to the continuous improvement of quality within the organization.
 
 1. **Inspection Patterns Analysis**
