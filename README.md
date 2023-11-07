@@ -143,11 +143,11 @@ QA Audit
 
 | Vendor ID   | Date       |   Quality Score |   Non-Conformance Issues | Corrective Actions   | Follow-up Required   |
 |:------------|:-----------|----------------:|-------------------------:|:---------------------|:---------------------|
-| VEND-001    | 2023-11-01 |            70.6 |                        8 | Action 1             | Yes                  |
-| VEND-002    | 2023-11-02 |            75.9 |                        2 | Action 2             | Yes                  |
-| VEND-003    | 2023-11-03 |            82.1 |                        3 | Action 3             | No                   |
-| VEND-004    | 2023-11-04 |            66.6 |                        2 | Action 4             | No                   |
-| VEND-005    | 2023-11-05 |            74.8 |                        0 | Action 5             | Yes                  |
+| VEND-001    | 2023-11-01 |            70.6 |                        8 | Effectiveness Test             | Yes                  |
+| VEND-002    | 2023-11-02 |            75.9 |                        2 | Product Test             | Yes                  |
+| VEND-003    | 2023-11-03 |            82.1 |                        3 | Product Test 3             | No                   |
+| VEND-004    | 2023-11-04 |            66.6 |                        2 | Product Test 4             | No                   |
+| VEND-005    | 2023-11-05 |            74.8 |                        0 | Product Test 5             | Yes                  |
 
 
 12. **Product Release Checklist**
