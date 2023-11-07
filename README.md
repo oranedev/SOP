@@ -1,4 +1,4 @@
-# SOP ![Imgur](https://i.imgur.com/SdKPScR.png)
+
 QA Audit
 > Generating data from Microsoft forms or Google forms will create Excel or Google Sheets to support each of the key areas for streamlining. Setup the workbook (QA Audit) with the following tabs, each representing a different focus area:
 
@@ -9,16 +9,16 @@ QA Audit
      
 | Date                | Department   |   Number of Inspections | Findings     | Recommendations   |
 |:--------------------|:-------------|------------------------:|:-------------|:------------------|
-| 2023-01-01 00:00:00 | Plant 1      |                       1 | Minor issues | Update equipment  |
-| 2023-01-02 00:00:00 | Plant 2      |                       3 | Minor issues | No action         |
-| 2023-01-03 00:00:00 | Plant 1      |                       2 | Compliant    | Review process    |
-| 2023-01-04 00:00:00 | Plant 2      |                       3 | Minor issues | Update equipment  |
-| 2023-01-05 00:00:00 | Plant 2      |                       4 | Compliant    | Review process    |
-| 2023-01-06 00:00:00 | Plant 3      |                       4 | Compliant    | Update equipment  |
-| 2023-01-07 00:00:00 | Plant 1      |                       3 | Minor issues | Update equipment  |
-| 2023-01-08 00:00:00 | Plant 3      |                       1 | Major issues | Improve training  |
-| 2023-01-09 00:00:00 | Plant 1      |                       2 | Compliant    | Update equipment  |
-| 2023-01-10 00:00:00 | Plant 1      |                       2 | Major issues | No action         |
+| 2023-01-01 00:00:00 | V4T     |                       1 | Minor issues | Update equipment  |
+| 2023-01-02 00:00:00 | Roofing     |                       3 | Minor issues | No action         |
+| 2023-01-03 00:00:00 | Roofing      |                       2 | Compliant    | Review process    |
+| 2023-01-04 00:00:00 | Roofing      |                       3 | Minor issues | Update equipment  |
+| 2023-01-05 00:00:00 | V4T     |                       4 | Compliant    | Review process    |
+| 2023-01-06 00:00:00 | V4t    |                       4 | Compliant    | Update equipment  |
+| 2023-01-07 00:00:00 | Modular Rooms     |                       3 | Minor issues | Update equipment  |
+| 2023-01-08 00:00:00 | Doors      |                       1 | Major issues | Improve training  |
+| 2023-01-09 00:00:00 | Doors     |                       2 | Compliant    | Update equipment  |
+| 2023-01-10 00:00:00 | Receiving      |                       2 | Major issues | No action         |
 
 
 2. **SOP Adherence Tracking**
@@ -27,11 +27,11 @@ QA Audit
   
   | SOP ID   | Department      | Date Reviewed   | Compliance Status   | Notes         | Action Items    |
 |:---------|:----------------|:----------------|:--------------------|:--------------|:----------------|
-| SOP-001  | Manufacturing   | 2023-11-01      | Under Review        | Sample note 1 | Sample action 1 |
-| SOP-002  | Manufacturing   | 2023-11-02      | Compliant           | Sample note 2 | Sample action 2 |
-| SOP-003  | Manufacturing   | 2023-11-03      | Under Review        | Sample note 3 | Sample action 3 |
-| SOP-004  | Logistics       | 2023-11-04      | Under Review        | Sample note 4 | Sample action 4 |
-| SOP-005  | Quality Control | 2023-11-05      | Compliant           | Sample note 5 | Sample action 5 |
+| SOP-001  | V4T   | 2023-11-01      | Under Review        | 13 grey vents | Rebuilt|
+| SOP-002  | V4T   | 2023-11-02      | Compliant           | 1 bronze vent | rebuilt |
+| SOP-003  | V4T   | 2023-11-03      | Under Review        | 2 bronze vents | paint added|
+| SOP-004  | Logistics       | 2023-11-04      | Under Review        | damaged by machine | rebuilt |
+| SOP-005  | Quality Control | 2023-11-05      | Compliant           | Wrong size | Rebuilt |
 
 
 3. **Continuous Improvement Metrics**
@@ -40,11 +40,11 @@ QA Audit
 
 | Improvement ID   | Description           | Implementation Date   | Impact Assessment   | Follow-up Actions   |
 |:-----------------|:----------------------|:----------------------|:--------------------|:--------------------|
-| CI-001           | Process improvement 1 | 2023-11-01            | Low                 | Action required 1   |
-| CI-002           | Process improvement 2 | 2023-11-02            | High                | Action required 2   |
-| CI-003           | Process improvement 3 | 2023-11-03            | High                | Action required 3   |
-| CI-004           | Process improvement 4 | 2023-11-04            | High                | Action required 4   |
-| CI-005           | Process improvement 5 | 2023-11-05            | Medium              | Action required 5   |
+| CI-001           | Process improvement 1 | 2023-11-01            | Low                 | Rebuilt  |
+| CI-002           | Process improvement 2 | 2023-11-02            | High                | Rebuilt  |
+| CI-003           | Process improvement 3 | 2023-11-03            | High                | Action: Rebuilt   |
+| CI-004           | Process improvement 4 | 2023-11-04            | High                | Action required: Rebuilt   |
+| CI-005           | Process improvement 5 | 2023-11-05            | Medium              | Action required: Rebuilt   |
 
 
 4. **Employee Feedback Compilation**
@@ -53,11 +53,11 @@ QA Audit
 
   | Date       | Employee ID | Feedback Category | Feedback Details         | Response Required | Response Status |
 |:-----------|:------------|:------------------|:-------------------------|:------------------|:----------------|
-| 2023-11-01 | EMP-0001    | Management        | Sample feedback detail 1 | No                | Pending         |
-| 2023-11-02 | EMP-0002    | Policy            | Sample feedback detail 2 | Yes               | Addressed       |
-| 2023-11-03 | EMP-0003    | Work Environment  | Sample feedback detail 3 | No                | Addressed       |
-| 2023-11-04 | EMP-0004    | Work Environment  | Sample feedback detail 4 | Yes               | Addressed       |
-| 2023-11-05 | EMP-0005    | Management        | Sample feedback detail 5 | Yes               | Addressed       |
+| 2023-11-01 | EMP-0001    | Management        | Implement Warsaw pact | No                | Pending         |
+| 2023-11-02 | EMP-0002    | Policy            | non-compliant | Yes               | Addressed       |
+| 2023-11-03 | EMP-0003    | Work Environment  | Poor air quality index | No                | Addressed       |
+| 2023-11-04 | EMP-0004    | Work Environment  | High noise poluuyion| Yes               | Addressed       |
+| 2023-11-05 | EMP-0005    | Management        | Implement risk assessment | Yes               | Addressed       |
 
 5. **Quality Dashboards Data Source**
    - Sheet Title: `Quality Metrics Raw Data`
